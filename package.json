@@ -1,0 +1,12 @@
+{
+  "name": "@wcd/jillella.litts-lkw0nmc6",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve hXWyiREptYDB2WDDbnpV --open"
+  },
+  "dependencies": {}
+}
